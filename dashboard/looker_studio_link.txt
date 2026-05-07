@@ -1,0 +1,11 @@
+Live Dashboard Link
+===================
+Update this file with your Looker Studio URL once built.
+
+Example: https://lookerstudio.google.com/reporting/your-id-here
+
+How to create:
+1. Go to https://lookerstudio.google.com
+2. Click "Create" → "Report"
+3. Connect your cleaned CSV as a data source
+4. Build charts following the mockup in the project README
